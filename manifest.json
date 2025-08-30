@@ -1,5 +1,5 @@
 ﻿{
-    "owner":  "DirtyRacer",
+    "owner":  "yurkoivan",
     "versions":  [
                      {
                          "changelog":  "Jellyfin 10.10 compatibility update; framework to net8.0; dependency bump.",
