@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+jellyfin-source-code/
+Jellyfin.Plugin.ThePornDB/bin/
+Jellyfin.Plugin.ThePornDB/obj/
